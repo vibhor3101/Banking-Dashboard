@@ -102,6 +102,6 @@ pip install pandas numpy matplotlib seaborn
 3. Run .ipynb for data preprocessing and exploration.
 
 
-** Author
-**Vibhor Singla
+## 📊 Author
+## Vibhor Singla
 Junior Developer (Intern) | Data Enthusiast | Power BI Learner
